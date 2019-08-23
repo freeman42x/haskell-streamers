@@ -13,3 +13,4 @@ List of Haskell streamers on Twitch, YouTube, etc.:
 * [puffnfresh - Brian McKenna](https://www.twitch.tv/puffnfresh)
 * [SwarmCollective - Joseph](https://www.twitch.tv/SwarmCollective)
 * [taktoa - Remy Goldschmidt](https://www.twitch.tv/taktoa)
+* [tsoding](https://www.twitch.tv/tsoding)
