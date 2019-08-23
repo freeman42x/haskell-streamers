@@ -4,7 +4,7 @@ List of Haskell streamers on Twitch, YouTube, etc.:
 
 * [AMathematicalWay](https://www.twitch.tv/AMathematicalWay)
 * [bitemyapp - Chris Allen](https://www.twitch.tv/bitemyapp)
-* [chiroptical](https://www.twitch.tv/chiroptical)
+* [chiroptical - Barry Moore II](https://www.twitch.tv/chiroptical)
 * [CyrusTCrumples](https://www.twitch.tv/CyrusTCrumples)
 * [DebugSteven - J. Haigh](https://www.twitch.tv/DebugSteven)
 * [ekmett - Edward Kmett](https://www.twitch.tv/ekmett)
