@@ -14,3 +14,4 @@ List of Haskell streamers on Twitch, YouTube, etc.:
 * [SwarmCollective - Joseph Woolley](https://www.twitch.tv/SwarmCollective)
 * [taktoa - Remy Goldschmidt](https://www.twitch.tv/taktoa)
 * [tsoding](https://www.twitch.tv/tsoding)
+* [jappiejappie](https://www.twitch.tv/jappiejappie)
