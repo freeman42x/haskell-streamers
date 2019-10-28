@@ -9,7 +9,6 @@ List of Haskell streamers on Twitch, YouTube, etc.:
 * [DebugSteven - J. Haigh](https://www.twitch.tv/DebugSteven)
 * [ekmett - Edward Kmett](https://www.twitch.tv/ekmett)
 * [freeman42x - Răzvan Flavius Panda](https://www.twitch.tv/freeman42x)
-* [isovector - Sandy Maguire](https://www.twitch.tv/isovector)
 * [puffnfresh - Brian McKenna](https://www.twitch.tv/puffnfresh)
 * [SwarmCollective - Joseph Woolley](https://www.twitch.tv/SwarmCollective)
 * [taktoa - Remy Goldschmidt](https://www.twitch.tv/taktoa)
