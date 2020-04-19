@@ -1,6 +1,13 @@
 # List of Haskell streamers
 
-List of Haskell streamers on Twitch, YouTube, etc.:
+Streaming every week:
+
+* [freeman42x - Răzvan Flavius Panda](https://www.twitch.tv/freeman42x)
+* [jappiejappie - Jappie Klooster](https://www.twitch.tv/jappiejappie)
+* [chiroptical - Barry Moore II](https://www.twitch.tv/chiroptical)
+* [tsoding - Alexey Kutepov](https://www.twitch.tv/tsoding)
+
+Streaming rarely:
 
 * [AMathematicalWay](https://www.twitch.tv/AMathematicalWay)
 * [bitemyapp - Chris Allen](https://www.twitch.tv/bitemyapp)
@@ -12,5 +19,5 @@ List of Haskell streamers on Twitch, YouTube, etc.:
 * [puffnfresh - Brian McKenna](https://www.twitch.tv/puffnfresh)
 * [SwarmCollective - Joseph Woolley](https://www.twitch.tv/SwarmCollective)
 * [taktoa - Remy Goldschmidt](https://www.twitch.tv/taktoa)
-* [tsoding](https://www.twitch.tv/tsoding)
-* [jappiejappie](https://www.twitch.tv/jappiejappie)
+* [tsoding - Alexey Kutepov](https://www.twitch.tv/tsoding)
+* [jappiejappie - Jappie Klooster](https://www.twitch.tv/jappiejappie)
