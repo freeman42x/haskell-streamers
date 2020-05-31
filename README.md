@@ -5,6 +5,7 @@ Streaming every week:
 * [freeman42x - Răzvan Flavius Panda](https://www.twitch.tv/freeman42x)
 * [jappiejappie - Jappie Klooster](https://www.twitch.tv/jappiejappie)
 * [chiroptical - Barry Moore II](https://www.twitch.tv/chiroptical)
+* [kerckhove_ts - Tom Sydney Kerckhove](https://www.twitch.tv/kerckhove_ts)
 * [tsoding - Alexey Kutepov](https://www.twitch.tv/tsoding)
 
 Streaming rarely:
