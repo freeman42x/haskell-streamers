@@ -27,3 +27,7 @@ Streaming rarely:
 * [taneb0](https://www.twitch.tv/taneb0)
 * [Rúnar Bjarnason](https://www.twitch.tv/runarorama)
 * [Gabriel Volpe](https://www.twitch.tv/gvolpe87)
+
+# List of Idris streamers
+
+* [identitygs](https://www.twitch.tv/identitygs)
