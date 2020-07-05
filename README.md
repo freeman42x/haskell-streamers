@@ -10,6 +10,7 @@ Streaming every week:
 
 Streaming rarely:
 
+* [maiagallo](https://www.twitch.tv/maiagallo)
 * [AMathematicalWay](https://www.twitch.tv/AMathematicalWay)
 * [bitemyapp - Chris Allen](https://www.twitch.tv/bitemyapp)
 * [CyrusTCrumples](https://www.twitch.tv/CyrusTCrumples)
