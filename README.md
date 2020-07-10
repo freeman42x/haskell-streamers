@@ -32,3 +32,7 @@ Streaming rarely:
 # List of Idris streamers
 
 * [identitygs](https://www.twitch.tv/identitygs)
+
+# List of LEAN theorem prover streamers
+
+* [kbuzzard](https://www.twitch.tv/kbuzzard)
