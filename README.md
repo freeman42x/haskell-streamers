@@ -4,6 +4,7 @@ Streaming every week:
 
 * [chiroptical - Barry Moore II](https://www.twitch.tv/chiroptical)
 * [freeman42x - Răzvan Flavius Panda](https://www.twitch.tv/freeman42x)
+* [SwarmCollective - Joseph Woolley](https://www.twitch.tv/SwarmCollective)
 * [jappiejappie - Jappie Klooster](https://www.twitch.tv/jappiejappie)
 * [kerckhove_ts - Tom Sydney Kerckhove](https://www.twitch.tv/kerckhove_ts)
 * [tsoding - Alexey Kutepov](https://www.twitch.tv/tsoding)
@@ -18,7 +19,6 @@ Streaming rarely:
 * [DebugSteven - J. Haigh](https://www.twitch.tv/DebugSteven)
 * [ekmett - Edward Kmett](https://www.twitch.tv/ekmett)
 * [puffnfresh - Brian McKenna](https://www.twitch.tv/puffnfresh)
-* [SwarmCollective - Joseph Woolley](https://www.twitch.tv/SwarmCollective)
 * [taktoa - Remy Goldschmidt](https://www.twitch.tv/taktoa)
 * [horlanovich](https://www.twitch.tv/horlanovich)
 * [Gabriel Gonzalez](https://www.twitch.tv/awakesecurity)
